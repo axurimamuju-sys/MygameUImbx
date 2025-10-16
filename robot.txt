@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mygameu-imbx.vercel.app/sitemap.xml
